@@ -1,0 +1,9 @@
+
+ .slide {
+    border: 1px solid green;
+    height: 80vh;
+    min-width: 100vw;
+    text-align: center;
+    /* background-color: red;; */
+}
+ 
