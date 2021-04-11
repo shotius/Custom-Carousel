@@ -3,8 +3,10 @@ import Slider from '../Slider/index'
 
 export const Carousel = (props) => {
     return (
-        <div>
-            <Slider />
-        </div>
+        <>
+            <div>
+                <Slider />
+            </div>
+        </>
     )
 } 
